@@ -1,6 +1,0 @@
-streamlit
-padas
-numpy
-scilit-learn
-seaborn
-matplotlib
